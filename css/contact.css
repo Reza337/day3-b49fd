@@ -32,7 +32,7 @@ body {
     align-items: center;
   }
   
-  nav ul li {
+  nav ul li,img {
     margin-right: 25px;
     font-size: 20px;
     display: flex;
